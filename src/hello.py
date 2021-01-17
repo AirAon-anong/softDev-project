@@ -1,5 +1,6 @@
+def hello_CE():
+	print("Hello, ce!\n")
 def main():
-	print("Hello, world!\n")
-
+	hello_CE()
 if __name__=='__main__':
 	main()
